@@ -1,0 +1,9 @@
+Step 1: Decode the description hint ON2XG5LSMQ====== using Base32 to get the key: storm.
+
+Step 2: Open the zip and find hmmm.txt out of the two given text files.
+
+Step 3: Decode the Base64 string to get the ciphertext encrypted using Vigenère Cipher.
+
+Step 4: Decrypt the ciphertext using the key storm to get the plaintext: unbr34k4bl3_ciph3r.
+
+Step 5: Combine with the format provided in the challenge and paste the flag into the submission box.
